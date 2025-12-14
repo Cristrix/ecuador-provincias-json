@@ -1,0 +1,21 @@
+{
+    "name": "ecuador-locations",
+    "version": "1.0.0",
+    "description": "Lista completa de Provincias, Cantones y Parroquias del Ecuador en formato JSON.",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "ecuador",
+        "provincias",
+        "cantones",
+        "parroquias",
+        "locations",
+        "data",
+        "json"
+    ],
+    "author": "MisterCell",
+    "license": "MIT"
+}
